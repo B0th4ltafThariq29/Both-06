@@ -1,2 +1,1 @@
-#jadi gini saya adalah seorang pemula dan ingin mencoba github
-jadi salam kenal
+<h1>tes</h1>
